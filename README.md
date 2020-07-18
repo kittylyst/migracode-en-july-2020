@@ -6,5 +6,8 @@ Mostly demonstrating features of git and github.
 
 * git status
 * git diff
+* git remote
 * git log
 * git push
+
+We should also talk about merging soon...
